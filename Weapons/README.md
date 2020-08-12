@@ -1,0 +1,4 @@
+# Weapons
+Weapons present in this folder are made of a few different parts, those publicly available in this repo utilize assets provided by Elizabeth Lane - which are publicly available [here](https://steamcommunity.com/sharedfiles/filedetails/?id=2082869185) on the Steam Workshop. These assets are repurposed from previous Halo games and modified for use on the related servers.
+
+The two parts present are used for different aspects of the weapon. Code in the items folder is used to spawn and properly access the weapons and related ammunition using the server framework used on the DT/Gatecrasher server. Meanwhile the code present in the lua folder is what actually created the functioning weapons and related entities used by the weapons.
